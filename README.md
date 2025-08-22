@@ -3,7 +3,7 @@
 **Course: Statistical Physics**, Physics BSc
 **Grade: 8.5/10**
 
-A project which simulates the ising model and investigates the effect of temperature on cluster formation 
+A project which simulates the ising model and investigates the effect of temperature on cluster formation. This projected was created in collaboration with a fellow student. 
 
 ## Article Title and Abstract
 Ising model: an investigation into the effect of temperature on different cluster properties
